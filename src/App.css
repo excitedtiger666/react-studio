@@ -1,9 +1,22 @@
 /* Add styling for your page here */
 
 .App {
-
 }
 
 .BakeryItem {
-  
+}
+
+.items {
+  max-width: 50%;
+}
+.Item-Container {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  border: 5px solid black;
+  margin: 5rem;
+}
+.cart {
+  display: flex;
+  flex-direction: column;
 }
